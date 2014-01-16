@@ -30,8 +30,11 @@ Don't trust me - build your own rust install package using Apple [packagemaker]:
 
 * install [XCode], its command line tools, and [packagemaker]
 * git clone the present Git [repo]
-* open your desired `rust-x.y-installpackage.pmdoc` with [packagemaker]
+* open your desired `packagemaker/rust-x.y-installpackage.pmdoc` with [packagemaker]
 * enjoy (and contribute if willing to)
+
+The present work is released under BSD revised license - so use feel free to {re,ab}use.
+
 
 ## Contribution welcone
 You're feedback is warmly welcome: use the issue tracker or drop me a mail.
