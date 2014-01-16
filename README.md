@@ -19,7 +19,7 @@ Once installed, you will have:
 
 * rust compilator and utils (rustc, rustpkg and rustdoc) in `/usr/local/bin/` 
 * rust libraries in `/usr/local/lib/`
-* rust documentation (man pages) in `/usr/local/share/man/man1`
+* rust documentation (man pages) in `/usr/local/share/man/man1/`
 
 Start use [rust] as indicated in rust [tutorial]: 
 
