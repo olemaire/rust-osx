@@ -12,7 +12,7 @@ OSX install packages to install and use [rust] without having to compile it from
 
 
 ## Just use precompiled install packages
-Download and install a `RUST-x.y.pkg` from the [Build repository] (DropBox), selecting your OSX release (10.x). 
+Download and install a `RUST-x.y.pkg` from the DropBox [Build repository], selecting your OSX release (10.x). 
 
 Example: I'm running a Maverick Mac Book Air, so I need to download and install `/10.9/RUST-0.9.pkg` to install RUST 0.9 on my OSX 10.9.1 station.
 
