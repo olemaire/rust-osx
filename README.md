@@ -2,7 +2,7 @@
 [tutorial]: http://static.rust-lang.org/doc/tutorial.html
 [rust]: http://www.rust-lang.org/ 
 [Github repository]: https://github.com/olemaire/rust-osx
-[Build Repository]: https://www.dropbox.com/sh/rkfg8z980z14q6m/gYDSRd33LB
+[Build repository]: https://www.dropbox.com/sh/rkfg8z980z14q6m/gYDSRd33LB
 [Xcode]: https://developer.apple.com/xcode/
 [packagemaker]: https://discussions.apple.com/thread/4083583?tstart=199
 
@@ -12,7 +12,7 @@ OSX install packages to install and use [rust] without having to compile it from
 
 
 ## Just use precompiled install packages
-Download and install a `RUST-x.y.pkg` from the [Build Repository] (thank's to DropBox), selecting your OSX release (10.x). 
+Download and install a `RUST-x.y.pkg` from the [Build repository] (DropBox), selecting your OSX release (10.x). 
 
 Example: I'm running a Maverick Mac Book Air, so I need to download and install `/10.9/RUST-0.9.pkg` to install RUST 0.9 on my OSX 10.9.1 station.
 
