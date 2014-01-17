@@ -12,7 +12,7 @@ OSX install packages to install and use [rust] without having to compile it from
 
 
 ## Just use precompiled install packages
-Download and install a `RUST-x.y.pkg` from the [Build Repository], selecting your OSX release (10.x). 
+Download and install a `RUST-x.y.pkg` from the [Build Repository] (thank's to DropBox), selecting your OSX release (10.x). 
 
 Example: I'm running a Maverick Mac Book Air, so I need to download and install `/10.9/RUST-0.9.pkg` to install RUST 0.9 on my OSX 10.9.1 station.
 
@@ -37,7 +37,7 @@ Don't trust me - build your own rust install package using Apple [packagemaker]:
 The present work is released under BSD revised license - so use feel free to {re,ab}use.
 
 
-## Contribution welcone
+## Contribution welcome
 You're feedback is warmly welcome: use the issue tracker or drop me a mail.
 
 Modify and distribute: join this [Github repository].
